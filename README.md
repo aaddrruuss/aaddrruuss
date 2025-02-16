@@ -47,7 +47,9 @@
 <p align="center">
   <a href="https://github.com/aaddrruuss" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
 </p>
-<img src="https://lanyard.cnrad.dev/api/427136807147405312?theme=dark&showDisplayName=true&idleMessage=Craking%20Fortnite%20%F0%9F%98%8E&animated=true" alt="Discord Presence">
+<a href="https://discord.com/users/427136807147405312">
+    <img src="https://lanyard.cnrad.dev/api/427136807147405312?theme=dark&showDisplayName=true&idleMessage=Craking%20Fortnite%20%F0%9F%98%8E&animated=true" alt="Discord Presence">
+  </a>
 ---
 
 ## 👀 Profile Views
