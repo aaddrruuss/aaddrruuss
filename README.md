@@ -15,5 +15,5 @@
 </a>
 </p>
 
-## Profile Views 🔍
+## 🔍 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=aaddrruuss)
