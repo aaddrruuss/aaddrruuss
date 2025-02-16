@@ -2,8 +2,6 @@
   <h1>Hi there! I'm Adrián 👋</h1>
 </div>
 
----
-
 ## 👨‍💻 About Me
 - 🎓 Studying **Computer Science & Computer Engineering**
 - 💻 Passionate about **software development**, **systems programming**, and **automation**
