@@ -51,3 +51,9 @@
   <img src="https://komarev.com/ghpvc/?username=aaddrruuss&color=blue&style=flat-square" alt="Profile Views" />
 </p>
 
+---
+<div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 10px;">
+    <a href="https://discord.com/users/427136807147405312">
+        <img src="https://lanyard.cnrad.dev/api/427136807147405312?theme=dark&showDisplayName=true&idleMessage=Away...&animated=true" alt="Discord Presence">
+    </a>
+</div>
