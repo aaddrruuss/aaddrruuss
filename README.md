@@ -8,8 +8,6 @@
 - 🤖 Working on **process automation** using Python bots
 - 🏗️ Exploring **low-level programming**, **databases**, and **Linux scripting**
 
----
-
 ## 🛠️ Languages & Tools
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/></a><a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/> </a>
@@ -20,8 +18,6 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" alt="Bash" width="50" height="50"/> </a>
 </p>
 
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/aaddrruuss">
@@ -30,28 +26,20 @@
   </a>
 </p>
 
----
-
 ## 🔥 Streak Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaddrruuss&theme=algolia" alt="GitHub Streak" />
 </p>
-
----
 
 ## 📢 Connect with Me
 <p align="center">
   <a href="https://github.com/aaddrruuss" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
 </p>
 
----
-
 ## 👀 Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aaddrruuss&color=blue&style=flat-square" alt="Profile Views" />
 </p>
-
----
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 10px;">
   <p align="center">
