@@ -2,15 +2,18 @@
   <h1>Hi there! I'm Adrián 👋</h1>
 </div>
 
-## 👨‍💻 About Me
+<div align="center">
+  <h1>About me</h1>
+</div>
 - 🎓 Studying **Computer Science & Computer Engineering**
 - 💻 Passionate about **software development**, **systems programming**, and **automation**
 - 🤖 Working on **process automation** using Python bots
 - 🏗️ Exploring **low-level programming**, **databases**, and **Linux scripting**
 
-
+<div align="center">
+  <h1>🛠️ Languages & Tools</h1>
+</div>
 <p align="center">
-  ## 🛠️ Languages & Tools
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/></a><a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/> </a>
   <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/> </a>
@@ -19,7 +22,9 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" alt="Bash" width="50" height="50"/> </a>
 </p>
 
-## 📊 GitHub Stats
+<div align="center">
+  <h1>📊GitHub Stats</h1>
+</div>
 <p align="center">
   <a href="https://github.com/aaddrruuss">
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=aaddrruuss&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -27,21 +32,31 @@
   </a>
 </p>
 
-## 🔥 Streak Stats
+<div align="center">
+  <h1>🔥Streak Stats</h1>
+</div>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaddrruuss&theme=algolia" alt="GitHub Streak" />
 </p>
 
-## 📢 Connect with Me
+<div align="center">
+  <h1>📢 Connect with me</h1>
+</div>
 <p align="center">
   <a href="https://github.com/aaddrruuss" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
 </p>
 
-## 👀 Profile Views
+<div align="center">
+  <h1>👀 Profile Views</h1>
+</div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aaddrruuss&color=blue&style=flat-square" alt="Profile Views" />
 </p>
 
+
+<div align="center">
+  <h1>💎 Discord Activity</h1>
+</div>
 <div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 10px;">
   <p align="center">
       <a href="https://discord.com/users/427136807147405312">
