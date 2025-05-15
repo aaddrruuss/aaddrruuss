@@ -5,6 +5,7 @@
 <div align="center">
   <h1>About me</h1>
 </div>
+
 - 🎓 Studying **Computer Science & Computer Engineering**
 - 💻 Passionate about **software development**, **systems programming**, and **automation**
 - 🤖 Working on **process automation** using Python bots
