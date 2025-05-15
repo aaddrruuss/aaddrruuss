@@ -4,10 +4,8 @@
 
 <div align="center">
   <h1>About me</h1>
-
-
-- 🎓 Studying **Computer Science & Software Engineer**
-- 💖 C
+🎓 Studying **Computer Science & Software Engineer**
+💖 C
 </div>
 <div align="center">
   <h1>🛠️ Languages & Tools</h1>
