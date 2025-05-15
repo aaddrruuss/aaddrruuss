@@ -54,14 +54,12 @@
   <img src="https://komarev.com/ghpvc/?username=aaddrruuss&color=blue&style=flat-square" alt="Profile Views" />
 </p>
 
+---
 
-<div align="center">
-  <h1>💎 Discord Activity</h1>
-</div>
 <div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 10px;">
   <p align="center">
-      <a href="https://discord.com/users/427136807147405312">
-          <img src="https://lanyard.cnrad.dev/api/427136807147405312?theme=dark&showDisplayName=true&animated=true" alt="Discord Presence">
-      </a>
+    <a href="https://discord.com/users/427136807147405312">
+        <img src="https://lanyard.cnrad.dev/api/427136807147405312?theme=dark&showDisplayName=true&idleMessage=Ahora%20mismo%20no%20estoy%20haciendo%20nada...&animated=true" alt="Discord Presence">
+    </a>
   </p>
 </div>
